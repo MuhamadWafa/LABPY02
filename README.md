@@ -6,8 +6,15 @@
 
 ## LATIHAN 1
 ### MEMBUAT PROGRAM MENENTUKAN NILAI AKHIR
+### DESKRIPSI
 
-### Penjelasan Program:
+Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan beberapa komponen penilaian, seperti nilai UTS (Ujian Tengah Semester), UAS (Ujian Akhir Semester), dan tugas. Program akan menampilkan nilai akhir dan memberikan keterangan mengenai status kelulusan.
+- 20% untuk nilai tugas
+- 40% untuk nilai UTS
+- 40% untuk nilau UAS
+- 
+### PENJELASAN PROGRAM
+
  1.Input: Meminta nama siswa dan nilai UTS, UAS, serta tugas.
  2. Perhitungan: Menghitung nilai akhir dengan bobot yang sesuai.
  3. Keterangan: Menentukan apakah siswa lulus atau tidak berdasarkan nilai akhir.
