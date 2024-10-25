@@ -119,6 +119,24 @@ gaji_bersih=gaji_pokok−potongan
 <img width="960" alt="Screenshot 2024-10-25 142936" src="https://github.com/user-attachments/assets/904a4385-f572-4048-8622-d35b49832384">
 
 ## LATIHAN 3
+### PENGGUNAAN KONDISI OR
+### DESKRIPSI 
+Kondisi OR adalah operator logika yang digunakan untuk mengevaluasi dua atau lebih ekspresi kondisi. Dalam bahasa pemrograman Python, operator ini memungkinkan kita untuk memeriksa beberapa kondisi sekaligus. Jika salah satu atau lebih dari kondisi tersebut bernilai True, maka keseluruhan pernyataan akan dianggap True. Sebaliknya, jika semua kondisi bernilai False, maka hasilnya adalah False.
+Penggunaan kondisi OR sangat berguna dalam berbagai situasi di mana beberapa kondisi perlu dievaluasi. Operator ini memudahkan pengambilan keputusan dalam logika program, sehingga membuat kode menjadi lebih ringkas dan efisien. Dengan memahami cara kerja OR, programmer dapat menciptakan skrip yang lebih kompleks dan dinamis.
+
+### PENJELASAN OR
+1. Definisi
+Operator OR adalah operator logika yang digunakan untuk mengevaluasi dua atau lebih kondisi. Dalam Python, operator ini ditulis sebagai or. Jika salah satu dari kondisi tersebut bernilai True, maka keseluruhan ekspresi juga akan bernilai True. Sebaliknya, jika semua kondisi bernilai False, maka hasilnya adalah False.
+2. Sintaksis
+Penggunaan dasar operator OR dalam Python adalah sebagai berikut:
+
+```PYTHON
+if kondisi1 or kondisi2:
+    # lakukan sesuatu
+```
+
+
+
 
 
 
