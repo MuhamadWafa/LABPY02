@@ -135,6 +135,7 @@ if kondisi1 or kondisi2:
     # lakukan sesuatu
 ```
 3. Contoh Penggunaan
+   
 a. Pemeriksaan Sederhana Misalnya, kita ingin mengecek apakah sebuah angka berada di luar rentang tertentu:
 
 ```PYHTON
