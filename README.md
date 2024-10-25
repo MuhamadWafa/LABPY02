@@ -110,6 +110,10 @@ gaji_bersih=gaji_pokok−potongan
 • Kewajiban membayar pajak rumah jika punya rumah
 ```
 
+### GAJI DI BAWAH UMR
+
+![WhatsApp Image 2024-10-25 at 15 18 35_fde8077b](https://github.com/user-attachments/assets/1a68e75b-8743-461e-831b-ca0bc138a761)
+
 ## BERIKUT SCREENSHOT VISUALCODE
 
 <img width="960" alt="Screenshot 2024-10-25 142936" src="https://github.com/user-attachments/assets/904a4385-f572-4048-8622-d35b49832384">
