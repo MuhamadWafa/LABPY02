@@ -157,6 +157,16 @@ if gaji > 5000000 or memiliki_rumah:
 else:
     print("Kelayakan pinjaman tidak terpenuhi")
 ```
+Jika gaji lebih dari 5.000.000 atau pemohon memiliki rumah, mereka dianggap layak untuk pinjaman.
+
+c. Logika dalam Pendidikan Dalam konteks pendidikan, kita dapat menggunakan OR untuk mengevaluasi nilai siswa:
+
+```PYHTON
+if a + b == c or b + c == a or c + a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+```
 
 
 
