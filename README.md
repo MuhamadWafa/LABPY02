@@ -25,7 +25,41 @@ Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan beberap
     
  5. Output: Menampilkan hasil perhitungan.
 
+### STRUKTUR PROGRAM
+
+Input:
+
+tidak lulus.py
+
+Q Search
+
+• Nama siswa
+
+• Nilai UTS (float)
+
+• Nilai UAS (float)
+
+• Nilai Tugas (float)
+
+Output:
+
+• Nama siswa
+
+• Nilai UTS
+
+• Nilai UAS
+
+• Nilai Tugas
+
+• Nilai Akhir
+
+• Nilai Huruf
+
+• Keterangan ("LULUS" atau "TIDAK LULUS")
+
 <img width="960" alt="Screenshot 2024-10-25 142332" src="https://github.com/user-attachments/assets/8f6abfb8-ee26-4af4-a322-a7f60e2f69ef">
+
+
 
 
 
