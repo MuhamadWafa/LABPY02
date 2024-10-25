@@ -91,6 +91,33 @@ gaji_bersih=gaji_pokok−potongan
 
    Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan gaji bersih.
 
+### STRUKTUR PROGRAM
+```
+• Input:
+
+• Gaji (int)
+
+• Status berkeluarga (Y/T)
+
+• Status kepemilikan rumah (Y/T)
+
+• Output:
+
+• Apakah gaji sudah di atas UMR atau belum
+
+• Kewajiban mengikuti asuransi jika sudah berkeluarga
+
+• Kewajiban membayar pajak rumah jika punya rumah
+```
+
+## BERIKUT SCREENSHOT VISUALCODE
+
+<img width="960" alt="Screenshot 2024-10-25 142936" src="https://github.com/user-attachments/assets/904a4385-f572-4048-8622-d35b49832384">
+
+## LATIHAN 3
+
+
+
 
 
 
