@@ -57,6 +57,39 @@ Output:
 
 <img width="960" alt="Screenshot 2024-10-25 142332" src="https://github.com/user-attachments/assets/8f6abfb8-ee26-4af4-a322-a7f60e2f69ef">
 
+## LATIHAN 2
+### MEMBUAT PROGRAM MENAMPILKAN GAJI KARYAWAN
+### DESKRIPSI
+
+Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum), dan status kepemilikan rumah dari pengguna, kemudian melakukan beberapa pengecekan sebagai berikut:
+
+1. Apakah gaji di atas UMR (Upah Minimum Regional).
+
+2. Jika gaji di atas UMR, program akan mengecek apakah pengguna sudah berkeluarga untuk menentukan kewajibam mengikuti asuransi dan menabung.
+
+3. Program juga mengecek apakah pengguna memiliki rumah untuk menentukan kewajiban membayar pajak rumah.
+
+### PENJELASAN PROGRAM
+1. Input Data Karyawan:
+
+Program meminta input dari pengguna untuk nama karyawan, gaji pokok, dan total potongan gaji.
+Menghitung Gaji Bersih:
+
+2. Menghitung Gaji Bersih:
+
+   Gaji bersih dihitung dengan mengurangi gaji pokok dengan total potongan:
+gaji_bersih
+=
+gaji_pokok
+−
+potongan
+gaji_bersih=gaji_pokok−potongan
+
+3. Output:
+
+   Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan gaji bersih.
+
+
 
 
 
