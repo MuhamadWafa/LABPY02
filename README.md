@@ -53,6 +53,8 @@ Output:
 
 • Keterangan ("LULUS" atau "TIDAK LULUS")
 
+## BERIKUT SCREENSHOT VISUALCODE
+
 <img width="960" alt="Screenshot 2024-10-25 142332" src="https://github.com/user-attachments/assets/8f6abfb8-ee26-4af4-a322-a7f60e2f69ef">
 
 
