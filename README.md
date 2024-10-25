@@ -179,6 +179,29 @@ Fleksibilitas: Dengan menggunakan OR, kita bisa menetapkan kriteria yang lebih f
 ### KESIMPULAN
 Operator OR adalah alat yang sangat berguna dalam pemrograman untuk mengevaluasi beberapa kondisi. Memahami cara kerjanya memungkinkan programmer untuk membuat logika yang lebih kompleks dan dinamis dalam aplikasi mereka. Jika ada yang ingin Anda tanyakan lebih lanjut, silakan beri tahu!
 
+### STRUKTUR PROGRAM
+1. Input Data:
+
+Menggunakan input() untuk meminta pengguna memasukkan nama, gaji, dan status kepemilikan rumah.
+Gaji diambil sebagai float untuk memungkinkan nilai desimal.
+Status kepemilikan rumah diubah menjadi boolean dengan membandingkan input dengan "Y".
+
+2. Proses Logika Menggunakan OR:
+
+Menggunakan pernyataan if untuk mengevaluasi apakah gaji lebih dari 5.000.000 atau jika pengguna memiliki rumah.
+Jika salah satu kondisi bernilai True, maka variabel kelayakan diatur menjadi "layak untuk mendapatkan pinjaman." Jika tidak, diatur menjadi "tidak layak untuk mendapatkan pinjaman."
+
+3. Output Hasil:
+
+Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji, dan kelayakan pinjaman.
+
+## BERIKUT HASIL SCREENSHOOT VISUALCODE
+
+<img width="960" alt="Screenshot 2024-10-25 143250" src="https://github.com/user-attachments/assets/d2faeea6-7cb9-46a7-b65d-2dfd9ff278c9">
+
+
+
+
 
 
 
