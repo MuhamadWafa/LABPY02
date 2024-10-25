@@ -78,14 +78,16 @@ Menghitung Gaji Bersih:
 2. Menghitung Gaji Bersih:
 
    Gaji bersih dihitung dengan mengurangi gaji pokok dengan total potongan:
+   
 gaji_bersih
-=
+
 gaji_pokok
 −
 potongan
+```
 gaji_bersih=gaji_pokok−potongan
-
-3. Output:
+```
+4. Output:
 
    Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan gaji bersih.
 
