@@ -29,10 +29,6 @@ Program ini dirancang untuk menghitung nilai akhir mahasiswa berdasarkan beberap
 
 Input:
 
-tidak lulus.py
-
-Q Search
-
 • Nama siswa
 
 • Nilai UTS (float)
