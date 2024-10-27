@@ -308,6 +308,59 @@ Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji
 <img width="960" alt="Screenshot 2024-10-25 143250" src="https://github.com/user-attachments/assets/d2faeea6-7cb9-46a7-b65d-2dfd9ff278c9">
 
 ## LATIHAN 3: KASUS 1 DAN KASUS 2
+### PEMESANAN TIKET BIOSKOP
+
+Kasus 1: Program Pemesanan Tiket Bioskop
+Buat program yang menghitung harga tiket bioskop. Tiket reguler berharga Rp50.000,
+sedangkan tiket VIP berharga Rp100.000. Jika user memiliki kartu member, mereka
+mendapatkan diskon 20% dari harga tiket. Program ini harus meminta tipe tiket dan status
+member dari user, lalu menghitung total harga yang harus dibayar.
+
+Petunjuk:
+
+    ● Gunakan if else dan operator ternary.
+    
+```python
+harga_reguler = 50000
+harga_vip = 100000
+
+tipe_tiket = (input("Masukkan tipe tiket (reguler/VIP): "))
+status_member = (input("Apakah Anda memiliki kartu member? (ya/tidak): "))
+
+ Menghitung total harga
+if tipe_tiket == "reguler":
+    total_harga = harga_reguler
+elif tipe_tiket == "vip":
+    total_harga = harga_vip
+else:
+    print("Tipe tiket tidak valid.")
+    exit()
+
+ Menghitung diskon jika pengguna memiliki kartu member
+
+
+if status_member == "ya":
+        total_harga *= 0.8  # Diskon 20%
+    
+        print(f"Total harga yang harus dibayar: Rp{total_harga:.2f}")
+elif status_member == "tidak":
+            total_harga
+            print(f"total harga yang harua dibayar: Rp{total_harga:.2f}")
+else:
+    print("Harga tidak dapat dihitung.")
+ ````
+Program ini akan menentukan harga pesanan tiket bioskop, Yang reguler/Vip, dan jika Vip harga 100.000, dan jika reguler 80.0000, dan jika memiliki kartu member pelanggan tersebut akan mendapatkan diskon 20%
+
+```python
+harga_reguler = 50000
+harga_vip = 100000
+````
+variable ini menentukan harga tiket bioskop
+
+```python
+tipe_tiket = (input("Masukkan tipe tiket (reguler/VIP): "))
+status_member = (input("Apakah Anda memiliki kartu member? (ya/tidak): "))
+````
 
 
 
