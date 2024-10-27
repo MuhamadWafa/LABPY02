@@ -401,6 +401,80 @@ Eksekusi dari program tersebut:
 
 ![Screenshot 2024-10-27 215739](https://github.com/user-attachments/assets/ba3cb9a6-f446-4ffe-b671-cdfea5c4da86)
 
+Dan Flowchartnya:
+
+![WhatsApp Image 2024-10-27 at 21 56 50](https://github.com/user-attachments/assets/5f7f0079-517d-4c1e-b449-17aa24af5501)
+
+### KASUS 2 PROGRAM KALKULATOR SEDERHANA
+Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari
+pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan
+menghitung hasil sesuai dengan operator yang dipilih.
+
+# Petunjuk:
+
+    ● Gunakan if elif else untuk menentukan operasi aritmatika.
+
+    angka1 = float(input("Masukkan angka pertama: "))
+operator = input("Masukkan operator (+, -, *, /): ")
+angka2 = float(input("Masukkan angka kedua: "))
+
+# Menghitung hasil berdasarkan operator
+
+```python
+if operator == '+':
+    hasil = angka1 + angka2
+    print(f"Hasil penjumlahan: {hasil}")
+elif operator == '-':
+    hasil = angka1 - angka2
+    print(f"Hasil pengurangan: {hasil}")
+elif operator == '*':
+    hasil = angka1 * angka2
+    print(f"Hasil perkalian: {hasil}")
+elif operator == '/':
+    if angka2 != 0:
+        hasil = angka1 / angka2
+        print(f"Hasil pembagian: {hasil}")
+    else:
+        print("Error: Pembagian dengan nol tidak diperbolehkan.")
+
+else:
+    print("Error: Operator tidak valid. Silakan gunakan +, -, *, atau /.")
+````
+Program kalkulator sederhana dalam Python adalah proyek yang baik untuk pemula dan programmer tingkat lanjut. Program ini memungkinkan pengguna untuk melakukan operasi matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
+```python
+
+angka1 = float(input("Masukkan angka pertama: "))
+operator = input("Masukkan operator (+, -, *, /): ")
+angka2 = float(input("Masukkan angka kedua: "))
+
+````
+fungsi yang digunakan dalam inputan ini menggunakan float mengubah nilai menjadi angka floating point, yaitu angka desimal atau pecahan, dan variable operator yang menginputkan suatu operator fungsi berupa (+, -, *, /) yang artinya pertambahan, perkurang, perkali, pembagian.
+
+```python
+if operator == '+':
+    hasil = angka1 + angka2
+    print(f"Hasil penjumlahan: {hasil}")
+````
+Jika operator (+), maka hasil tersbur inputan variable angka1 ditambahkan angka2, dan Output akan mengeluarkan hasil program tersebut, Hingga seterusnya dengan (*) perkalian, dan (-) perkurangan
+
+```python
+elif operator == '/':
+    if angka2 != 0:
+        hasil = angka1 / angka2
+        print(f"Hasil pembagian: {hasil}")
+    else:
+        print("Error: Pembagian dengan nol tidak diperbolehkan.")
+````
+Jika oprator (/), maka Inputan Variable angka1 dibagi angka2, dan dicetak semestinya, untuk desision (angka2 !=0:) tidak diperkenankan oleh program, karna output yang keluar "Error: Pembagian dengan nol tidak diperbolehkan"
+
+```python
+else:
+    print("Error: Operator tidak valid. Silakan gunakan +, -, *, atau /.")
+````
+saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini Output yang keluar "Error: Operator tidak valid. Silakan gunakan +, -, *, atau /."
+
+
 
 
 
