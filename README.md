@@ -474,7 +474,17 @@ else:
 ````
 saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini Output yang keluar "Error: Operator tidak valid. Silakan gunakan +, -, *, atau /."
 
+### Dan ini hasil program tersebut
 
+![Screenshot 2024-10-27 221303](https://github.com/user-attachments/assets/986723cc-83f2-4fdb-a0ef-c18cfeafff4f)
+
+### eksekusi program tersebut
+
+![Screenshot 2024-10-27 221038](https://github.com/user-attachments/assets/e15f6430-94f9-4ca3-acb0-fdcc1dc52e22)
+
+### dan flowchartnya
+
+![Screenshot 2024-10-27 153830](https://github.com/user-attachments/assets/3d99b859-6ac9-4b99-b360-b53c130d5248)
 
 
 
