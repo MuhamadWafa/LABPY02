@@ -393,7 +393,15 @@ dan jika inputan status member "tidak", maka total harga normal
 
 jika menginputkan selain (ya/tidak) output yang keluar "Harga tidak dapat dihitung"
 
-Dan ini hasil program tersebut
+Dan ini hasil program tersebut:
+
+![Screenshot 2024-10-27 215714](https://github.com/user-attachments/assets/ab309c13-2e77-40e7-b6c0-406dc1880fb1)
+
+Eksekusi dari program tersebut:
+
+![Screenshot 2024-10-27 215739](https://github.com/user-attachments/assets/ba3cb9a6-f446-4ffe-b671-cdfea5c4da86)
+
+
 
 
 
